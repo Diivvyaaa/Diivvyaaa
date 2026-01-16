@@ -1,9 +1,9 @@
 ## Hi there 👋
 
 
-# 💫 About Me:
-🔭 I’m currently working on polishing my skills in Web Dev.<br>
-🌱 I’m currently learning Java, DSA, Python, SQL.<br>
+# About Me:
+ I’m currently working on polishing my skills in Web Dev.<br>
+ I’m currently learning Java, DSA, Python, SQL.<br>
 
 
 ## 🌐 Socials:
