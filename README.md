@@ -3,7 +3,7 @@
 
 # About Me:
  I’m currently working on polishing my skills in Web Dev.<br>
- I’m currently learning Java, DSA, Python, SQL.<br>
+ I’m currently learning Java, DSA, Python, SQL,React,Javascript.<br>
 
 
 ## 🌐 Socials:
