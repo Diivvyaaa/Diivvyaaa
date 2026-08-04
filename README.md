@@ -283,19 +283,27 @@ Completed a Java programming internship focused on strengthening practical progr
 
 ---
 
+---
+
 ## GITHUB ANALYTICS
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DivyaKalia&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D0B1A&title_color=A78BFA&icon_color=8B5CF6&text_color=E5E7EB"/>
+<a href="https://github.com/Diivvyaaa">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Diivvyaaa&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&bg_color=0D0B1A&title_color=A78BFA&icon_color=8B5CF6&text_color=E5E7EB" alt="Divya's GitHub Stats"/>
+</a>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DivyaKalia&layout=compact&hide_border=true&langs_count=8&bg_color=0D0B1A&title_color=A78BFA&text_color=E5E7EB"/>
+<a href="https://github.com/Diivvyaaa">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diivvyaaa&layout=compact&langs_count=8&hide_border=true&bg_color=0D0B1A&title_color=A78BFA&text_color=E5E7EB" alt="Divya's Top Languages"/>
+</a>
 
-<br/>
+<br/><br/>
 
-<img width="65%" src="https://github-readme-streak-stats.herokuapp.com/?user=DivyaKalia&hide_border=true&background=0D0B1A&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=E5E7EB&dates=9CA3AF&currStreakNum=FFFFFF&sideNums=FFFFFF"/>
+<img width="65%" src="https://github-readme-streak-stats.herokuapp.com/?user=Diivvyaaa&hide_border=true&background=0D0B1A&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=E5E7EB&dates=9CA3AF&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak"/>
 
 </div>
+
+---
 
 ---
 
@@ -303,9 +311,11 @@ Completed a Java programming internship focused on strengthening practical progr
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=DivyaKalia&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Diivvyaaa&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=7" alt="GitHub Trophies"/>
 
 </div>
+
+---
 
 ---
 
@@ -313,9 +323,11 @@ Completed a Java programming internship focused on strengthening practical progr
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DivyaKalia&bg_color=0D0B1A&color=A78BFA&line=7C3AED&point=C4B5FD&area=true&hide_border=true&custom_title=Divya%20Kalia%20%E2%80%94%20Contribution%20Activity"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Diivvyaaa&bg_color=0D0B1A&color=A78BFA&line=7C3AED&point=C4B5FD&area=true&hide_border=true&custom_title=Divya%20Kalia%20%E2%80%94%20Contribution%20Activity" alt="GitHub Contribution Activity"/>
 
 </div>
+
+---
 
 ---
 
