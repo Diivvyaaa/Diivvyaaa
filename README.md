@@ -328,36 +328,6 @@ Completed a **2-month Java Programming Internship** focused on practical Java pr
 
 ---
 
-## GITHUB ANALYTICS
-
-<div align="center">
-
-<a href="https://github.com/Diivvyaaa">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Diivvyaaa&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&bg_color=0D0B1A&title_color=A78BFA&icon_color=8B5CF6&text_color=E5E7EB" alt="Divya's GitHub Stats"/>
-</a>
-
-<a href="https://github.com/Diivvyaaa">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diivvyaaa&layout=compact&langs_count=8&hide_border=true&bg_color=0D0B1A&title_color=A78BFA&text_color=E5E7EB" alt="Divya's Top Languages"/>
-</a>
-
-<br/><br/>
-
-<img width="65%" src="https://github-readme-streak-stats.herokuapp.com/?user=Diivvyaaa&hide_border=true&background=0D0B1A&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=E5E7EB&dates=9CA3AF&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Contribution Streak"/>
-
-</div>
-
----
-
-## GITHUB TROPHIES
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Diivvyaaa&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=7" alt="GitHub Trophies"/>
-
-</div>
-
----
-
 ## CONTRIBUTION ACTIVITY
 
 <div align="center">
