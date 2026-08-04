@@ -263,24 +263,6 @@ Completed a Java programming internship focused on strengthening practical progr
 
 ## CERTIFICATIONS
 
-### AWS
-
-<img src="https://img.shields.io/badge/AWS-Cloud%20Learning-6D28D9?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-
-### Oracle
-
-<img src="https://img.shields.io/badge/Oracle-Technology-4C1D95?style=for-the-badge&logo=oracle&logoColor=white"/>
-
-### NPTEL
-
-<img src="https://img.shields.io/badge/NPTEL-Certification-312E81?style=for-the-badge&logo=academia&logoColor=white"/>
-
-### Cisco
-
-<img src="https://img.shields.io/badge/Cisco-Learning-1E1B4B?style=for-the-badge&logo=cisco&logoColor=white"/>
-
-### Additional Certifications
-
 <img src="https://img.shields.io/badge/IBM-Java%20Programming%20for%20Beginners-6D28D9?style=for-the-badge&logo=ibm&logoColor=white"/>
 <img src="https://img.shields.io/badge/IBM-Software%20Engineering-4C1D95?style=for-the-badge&logo=ibm&logoColor=white"/>
 <img src="https://img.shields.io/badge/Anthropic%20%26%20CodePath-AI%20Fluency%20for%20Builders-312E81?style=for-the-badge&logo=anthropic&logoColor=white"/>
@@ -292,20 +274,9 @@ Completed a Java programming internship focused on strengthening practical progr
 
 <div align="center">
 
-<a href="https://leetcode.com/">
-<img src="https://img.shields.io/badge/LeetCode-18181B?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
-</a>
 
 <a href="https://www.geeksforgeeks.org/">
 <img src="https://img.shields.io/badge/GeeksforGeeks-166534?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
-</a>
-
-<a href="https://www.hackerrank.com/">
-<img src="https://img.shields.io/badge/HackerRank-14532D?style=for-the-badge&logo=hackerrank&logoColor=white" />
-</a>
-
-<a href="https://www.codechef.com/">
-<img src="https://img.shields.io/badge/CodeChef-312E81?style=for-the-badge&logo=codechef&logoColor=white" />
 </a>
 
 </div>
