@@ -122,7 +122,7 @@ A full-stack e-commerce platform built with **React and Spring Boot**, featuring
 | **Performance** | REST-based client-server architecture designed for scalable application growth |
 | **Security** | Spring Security implemented for secure REST API access |
 | **Impact** | Enables administrators to manage products and orders while customers browse, shop, and track orders |
-| **Repository** | [GitHub Repository](https://github.com/Diivvyaaa) |
+| **Repository** | [GitHub Repository](https://github.com/Diivvyaaa/ShopFloww) |
 
 **Engineering Scope**
 
@@ -150,7 +150,7 @@ A lightweight student portal developed using **vanilla JavaScript and Vite**, de
 | **Performance** | Lightweight frontend implementation using vanilla JavaScript |
 | **Security** | Login validation and client-side input handling |
 | **Impact** | Combines scheduling, study goals, timetable planning, focus sessions, and progress tracking |
-| **Repository** | [GitHub Repository](https://github.com/Diivvyaaa) |
+| **Repository** | [GitHub Repository](https://github.com/Diivvyaaa/StudyPlanner) |
 
 **Engineering Scope**
 
@@ -180,7 +180,7 @@ A console-based hotel management application built with **Core Java**, demonstra
 | **Performance** | Lightweight file-based persistence |
 | **Security** | Application-level data management and controlled workflows |
 | **Impact** | Automates room booking, guest check-in/check-out, billing, and invoice generation |
-| **Repository** | [GitHub Repository](https://github.com/Diivvyaaa) |
+| **Repository** | [GitHub Repository](https://github.com/Diivvyaaa/HotelReservationSystem) |
 
 **Engineering Scope**
 
@@ -207,7 +207,7 @@ A personal developer portfolio built to showcase full-stack and Core Java projec
 | **Performance** | Component-based React architecture |
 | **Security** | Firebase-backed application architecture |
 | **Impact** | Centralized professional profile, project showcase, live demos, and recruiter interaction |
-| **Repository** | [GitHub Repository](https://github.com/Diivvyaaa) |
+| **Repository** | [GitHub Repository](https://github.com/Diivvyaaa/Portfolio) |
 
 **Engineering Scope**
 
