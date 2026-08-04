@@ -331,13 +331,24 @@ Completed a Java programming internship focused on strengthening practical progr
 
 ---
 
+---
+
 ## CONTRIBUTION SNAKE
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/DivyaKalia/DivyaKalia/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
-
-</div>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Diivvyaaa/Diivvyaaa/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Diivvyaaa/Diivvyaaa/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    src="https://raw.githubusercontent.com/Diivvyaaa/Diivvyaaa/output/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Snake"
+  />
+</picture>
 
 ---
 
